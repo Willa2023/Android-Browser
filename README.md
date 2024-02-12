@@ -1,4 +1,5 @@
 # Android-Browser
+A mobile browser can search for url, go forward and backward, add and delete bookmarks, store browsing history, set homepage and change theme colour.
 
 ### Instruction
 
