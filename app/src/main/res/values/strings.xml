@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Browser</string>
+    <string name="url">Type a url..</string>
+    <string name="url2">https://www.google.com</string>
+    <string name="url3">Type Hex Color Code(e.g.#ffffff)..</string>
+    <string name="shut_down">App shutting down</string>
+    <string name="google_page">https://www.google.com</string>
+</resources>

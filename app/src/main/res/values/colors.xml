@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    first theme-->
+    <!-- Primary brand color. -->
+    <color name="blue_200">#a7c0cc</color>
+    <color name="blue_500">#3f85a6</color>
+    <color name="blue_700">#224859</color>
+    <!-- Secondary brand color. -->
+    <color name="blue_100">#ccd5de</color>
+    <color name="blue_50">#e6eff5</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+    <!--    second theme-->
+    <!-- Primary brand color. -->
+    <color name="purple_200">#C6A7ED</color>
+    <color name="purple_500">#8564B5</color>
+    <color name="purple_700">#514177</color>
+    <!-- Secondary brand color. -->
+    <color name="purple_100">#E7C5F3</color>
+    <color name="purple_50">#F6EEF8</color>
+
+    <!--    third theme-->
+    <!-- Primary brand color. -->
+    <color name="orange_200">#F3C178</color>
+    <color name="orange_500">#BF9414</color>
+    <color name="orange_700">#755B0C</color>
+
+    <color name="orange_100">#E8DCB6</color>
+    <color name="orange_50">#F8ECC8</color>
+
+    <color name="black">#333333</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+</resources>
